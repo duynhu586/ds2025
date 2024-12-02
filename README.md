@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Nhu Duy
 * Student ID: 22BI13123
-* Student Group ID: Not-for-now
+* Student Group ID: 5
